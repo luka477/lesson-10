@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:ital,wght@0,700;1,700&family=Poppins:wght@900&display=swap');
+.Contact {
+	font-size: 14px;
+	color: #5863F8;
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
+}
+.maindiv {
+	max-width: 1088px;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 88px;
+}
+.text-1 {
+	font-size: 42px;
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
+}
+.text-2 {
+	font-size: 42px;
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-family: 'Poppins', sans-serif;
+}
+.input-div {
+	max-width: 1088px;
+	width: 100%;
+	display: flex;
+	flex-wrap: wrap;
+	margin-top: 50px;
+}.textarea-wraper {
+	resize: none;
+	max-width: 720px;
+	width: 100%;
+	height: 288px;
+	display: flex;
+	justify-content: space-between;
+	background-color: #F8F8F8;
+	border: 1px solid #e8e8e8;
+}
+.info-wraper {
+	max-width: 352px;
+	width: 100%;
+	margin-left: 16px;
+}
+.textarea-wraper::placeholder {
+	color: #CECECE;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+.input-wraper-1 {
+	max-width: 352px;
+	width: 100%;
+	height: 60px;
+	background-color: #F8F8F8;
+	border: 1px solid #e8e8e8;
+}
+.input-wraper-1::placeholder {
+	padding-left: 20px;
+	color: #CECECE;
+}
+.input-wraper-2 {
+	max-width: 352px;
+	width: 100%;
+	height: 60px;
+	background-color: #F8F8F8;
+	border: 1px solid #e8e8e8;
+	margin-top: 16px;
+}
+.input-wraper-2::placeholder {
+	padding-left: 20px;
+	color: #CECECE;
+}
+.button {
+	max-width: 352px;
+	width: 100%;
+	height: 60px;
+	background-color: #5863F8;
+	margin-top: 16px;
+	color: white;
+	border: none;
+}

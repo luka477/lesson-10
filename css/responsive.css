@@ -1,0 +1,39 @@
+@media (max-width: 768px) {
+	.Contact {
+		margin-left: 285px;
+	}
+	.text-1 {
+		margin-left: 140px;
+	}
+	.text-2 {
+		margin-left: 185px;
+	}
+	.info-wraper {
+		margin:0 auto;
+		margin-top: 16px;
+	}
+}
+@media (max-width: 480px) {
+	.Contact {
+		margin-left: 170px;
+	}
+	.text-1 {
+		margin-left: 40px;
+	}
+	.text-2 {
+		margin-left: 80px;
+	}
+}
+@media (max-width: 320px) {
+	.Contact {
+		margin-left:120px;
+	}
+	.text-1 {
+		font-size: 30px;
+		margin-left: 15px;
+	}
+	.text-2 {
+		font-size: 30px;
+		margin-left: 50px;
+	}
+}
